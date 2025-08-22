@@ -45,11 +45,11 @@ As informações utilizadas estão presentes na planilha fornecida com os seguin
 
 A análise permite segmentações estratégicas como:
 
-- Desempenho por **canal de aquisição**
-- Conversão por **tipo de venda**
-- Efetividade da **origem do lead**
-- Tempo médio entre as etapas do funil
-- Proporção de leads perdidos por estágio
+- Quantidade de leads por **canal de aquisição ou por criador**
+- Taxa da efetividade da venda
+- Tempo médio para desfecho do funil
+- Documentação que os leads costumam trazer
+- Níveis de parentescos mais comuns
 
 ---
 
