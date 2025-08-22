@@ -48,8 +48,8 @@ A análise permite segmentações estratégicas como:
 - Quantidade de leads por **canal de aquisição ou por criador**
 - Taxa da efetividade da venda
 - Tempo médio para desfecho do funil
-- Documentação que os leads costumam trazer
-- Níveis de parentescos mais comuns
+- Documentação que os leads costumam trazer *(baixo volume atual)*
+- Níveis de parentescos mais comuns *(baixo volume atual)*
 
 ---
 
