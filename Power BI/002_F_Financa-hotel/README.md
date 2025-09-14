@@ -14,7 +14,7 @@ Com as visualizações interativas, é possível:
 ---
 
 ## 🧩 Escopo da Análise
-A base de dados contempla o desempenho do hotel em **2010**, segmentado pelas quatro estações do ano: **Primavera, Verão, Outono e Inverno**.  
+A base de dados contempla o desempenho do hotel de **2010 a 2019**, segmentado pelas quatro estações do ano: **Primavera, Verão, Outono e Inverno**.  
 
 Cada registro corresponde a um **consolidado trimestral**, trazendo informações financeiras, operacionais e de clientes, como:  
 - **Custos e despesas** (salários, marketing, treinamento, manutenção, energia, internet, transporte).  
@@ -27,8 +27,8 @@ Cada registro corresponde a um **consolidado trimestral**, trazendo informaçõe
 
 | Categoria                  | Variáveis Principais                                                                 |
 |----------------------------|---------------------------------------------------------------------------------------|
-| 📉 **Custos e despesas**   | Employee Salary, Training, Marketing, Maintenance, Insurance, Internet, Food & Beverage |
-| 📈 **Receitas**            | Deluxe Rooms, Suite Rooms, Restaurant, Events, Health & Wellness, Shops, Guided Tours |
-| 👥 **Atendimento**         | Total Guests, Cancelled Bookings, Guest Rating                                        |
-| 🛠️ **Outros indicadores** | Entertainment, Periodicals, Transportation, Miscellaneous                             |
-| 📆 **Sazonalidade**        | Ano, Estação, Nº do período, ID do relatório/evento                                   |
+| 💰 **Receitas**            | Deluxe Rooms, Suite Rooms, Restaurant, Events, Health & Wellness, Shops, Guided Tours |
+| 📈 **Investimentos**   | Training, Marketing, Food & Beverage |
+| 📉 **Custos e despesas**   | Employee Salary, Maintenance, Insurance, Internet |
+| 👥 **Atendimento**         | Total Guests, Cancelled Bookings, Guest Rating   |
+| 📆 **Sazonalidade**        | Ano, Estação, Nº do período, ID do relatório/evento|
