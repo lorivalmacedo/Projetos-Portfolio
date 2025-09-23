@@ -43,28 +43,12 @@ Registra os dias em que os usuários estiveram ativos na plataforma.
 
 ---
 
-## 🔍 Questões-Chave da Análise
+## 🔍 Questões-Chave de Análise
 
-A análise exploratória será orientada por três eixos centrais:
-
-1. **Taxa de Primeiro Acesso**  
-   Avaliar a proporção de usuários que acessaram as listas nominais ao menos uma vez desde o cadastro.
-
-2. **Comparação entre Cargos**  
-   Identificar diferenças no comportamento de uso entre os diversos cargos dos usuários (ex: gestores vs. profissionais assistenciais).
-
-3. **Padrões de Comportamento**  
-   Mapear o uso recorrente das listas ao longo do tempo, incluindo ações como aplicar filtros e imprimir listas, buscando padrões de engajamento.
-
----
-
-## 🛠️ Entregáveis
-
-A análise final documentada contempla:
-
-- **Definição das métricas utilizadas** (incluindo premissas)
-- **Visualizações de apoio** para cada um dos três tópicos
-- **Conclusões específicas e comparativas**, destacando padrões, variações temporais ou diferenças por cargo/perfil
+- Taxa de Primeiro Acesso
+- Perfil dos usuários, com comparação entre cargos e região
+- Padrões de Comportamento
+- Adesão da plataforma
 
 ---
 
