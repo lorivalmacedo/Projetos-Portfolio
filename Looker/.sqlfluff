@@ -1,5 +1,5 @@
 [sqlfluff]
 dialect = bigquery
 
-[sqlfluff:rules:structure.column_order]
-ignore = True
+[sqlfluff:rules]
+exclude_rules = ST06
